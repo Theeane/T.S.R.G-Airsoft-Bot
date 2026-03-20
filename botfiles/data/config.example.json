@@ -1,0 +1,7 @@
+{
+  "token": "DIN_BOT_TOKEN",
+  "clientId": "DIN_APPLICATION_ID",
+  "guildId": "DIN_SERVER_ID",
+  "adminRoleId": "",
+  "defaultImageUrl": "https://i.imgur.com/PfIm2sY.jpeg"
+}
